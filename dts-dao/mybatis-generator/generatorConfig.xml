@@ -43,8 +43,8 @@
 
         <!--数据库连接信息-->
         <jdbcConnection driverClass="com.mysql.jdbc.Driver"
-                        connectionURL="jdbc:mysql://localhost:3306/demo-shop?useUnicode=true&amp;characterEncoding=UTF-8&amp;serverTimezone=UTC&amp;verifyServerCertificate=false&amp;useSSL=false"
-                        userId="root"
+                        connectionURL="jdbc:mysql://139.199.66.123:3306/dts_shop?useUnicode=true&amp;characterEncoding=UTF-8&amp;serverTimezone=UTC&amp;verifyServerCertificate=false&amp;useSSL=false"
+                        userId="dts_shop"
                         password="123456"/>
 
         <javaTypeResolver>
